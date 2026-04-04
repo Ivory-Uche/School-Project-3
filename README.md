@@ -1,8 +1,8 @@
-# Project 3: Exploring Keyword Co-occurrence Networks in Scientific Publications  
+# Exploring Keyword Co-occurrence Networks in Scientific Publications  
 Onyinyechi Ivory Uche 
 
 ### Overview
-This project analyzes how research keywords appear together in academic publications. I used a dataset of keywords and built a weighted network to find which topics are the most "important" or "central".
+keyword network analysis to discover patterns in academic research keywords. I used a dataset of keywords and built a weighted network to find which topics are the most "central".
 
 ### Repository 
 * `data/keywords_data.csv`: Source dataset of articles and keyword columns.
